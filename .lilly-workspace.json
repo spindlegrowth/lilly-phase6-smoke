@@ -1,0 +1,5 @@
+{
+  "taskId": "smoke-task",
+  "backend": "local-git",
+  "note": "Isolated Lilly coding workspace. Host credentials are not mounted."
+}
