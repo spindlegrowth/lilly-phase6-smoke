@@ -1,0 +1,1 @@
+{"name":"lilly-phase6-smoke","private":false,"scripts":{"test":"node -e \"console.log(require(./healthcheck.json))\""}}
