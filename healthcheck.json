@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "service": "lilly-fixture",
+  "goal": "Add a health-check endpoint",
+  "generatedBy": "local-patch"
+}
